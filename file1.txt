@@ -1,0 +1,5 @@
+here is text
+:wq
+
+:qw
+
